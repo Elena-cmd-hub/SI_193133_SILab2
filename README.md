@@ -9,3 +9,5 @@
 36 ребра-30јазли=6+2=8  
 цикломатска комплексност=8
 # Test случаи според критериумот на Multiple condition 
+![image](https://user-images.githubusercontent.com/80982916/120229763-1b86f880-c24e-11eb-86a1-75b07a1f5cd3.png)
+# Test случаи според критериумот Every branch
